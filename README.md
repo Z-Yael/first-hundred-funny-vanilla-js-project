@@ -11,3 +11,7 @@ Winning Condition: The first player to reach 100 points wins.
   *  New Game (🔄): Resets the game.
   *  Roll Dice (🎲): Rolls the dice.
   *  Hold (📥): Holds the current score and switches players.
+
+Where you can play:
+
+https://z-yael.github.io/first-hundred-funny-vanilla-js-project/
